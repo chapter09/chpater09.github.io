@@ -6,11 +6,11 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">
-     {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
+      <img src="{{ '/assets/img/logo-dark.svg' | relative_url }}" alt="isl-logo" width="100%">
     </h1>
      <p class="desc">{{ page.description }}</p>
   </header>
-
+  <br />
   <article>
     {% if page.profile %}
     <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
@@ -29,6 +29,7 @@ layout: default
       {{ content }}
     </div>
 
+    <br />
     {% if page.news %}
       {% include news.html %}
     {% endif %}
@@ -46,5 +47,9 @@ layout: default
     </div>
     {% endif %}
   </article>
+
+  <ul>
+    <p align="right"><img id="foot-logo" src="{{ '/assets/img/isl-logo-dark.gif' | relative_url }}" height="40px" /> </p>
+  </ul>
 
 </div>
