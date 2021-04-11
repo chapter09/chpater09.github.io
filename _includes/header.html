@@ -43,8 +43,41 @@
             </a>
           </li>
           {% endif %}
+          <!-- pages -->
+          <li class="nav-item {% if page.url contains 'projects' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/projects/' | relative_url }}">
+              Projects
+              {% if page.title == "blog" %}
+              <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>          
+          <li class="nav-item {% if page.url contains 'publications' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/publications/' | relative_url }}">
+              Publications
+              {% if page.title == "Publication" %}
+              <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+          <li class="nav-item {% if page.url contains 'team' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/team/' | relative_url }}">
+              Team
+              {% if page.title == "team" %}
+              <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+          <li class="nav-item {% if page.url contains 'Join Us' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/joinus/' | relative_url }}">
+              Join Us
+              {% if page.title == "Join Us" %}
+              <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
           <!-- Other pages -->
-          {% assign sorted_pages = site.pages | sort: "title" %}
+          <!-- {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}
           {% if p.nav and p.autogen == nil %}
           <li class="nav-item {% if page.title == p.title %}active{% endif %}">
@@ -56,7 +89,7 @@
               </a>
           </li>
           {% endif %}
-          {% endfor %}
+          {% endfor %} -->
           {% if site.enable_darkmode %}
             <div class = "toggle-container">
               <a id = "light-toggle">
