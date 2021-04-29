@@ -35,11 +35,11 @@ nav: true
     <div class="col-lg-5 mt-1 mb-4 mt-md-1">
         <div class="row">
             <div class="col-sm-3 col-lg-5 col-4 mt-1 mt-md-1">
-                <img class="img-fluid rounded z-depth-1" src="/assets/img/potter.jpg" width="130px" alt="" title=""/>
+                <img class="img-fluid rounded z-depth-1" src="/assets/img/HanfeiYu.jpeg" width="130px" alt="" title=""/>
             </div>
             <div class="col-sm-9 col-lg-7 col-8 mt-1 mt-md-1">
                 <h4><a href="https://hanfeiyu.github.io">Hanfei Yu</a></h4>
-                <span>2021 Fall</span>
+                <span>2021 Fall</span><br />                
             </div>
          </div>
     </div>

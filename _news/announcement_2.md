@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2021-01-15 15:59:00-0400
+date: 2021-04-29 15:59:00-0400
 inline: true
 ---
 
-Dr. Hao Wang started working as an Assistant Professor at <a href="https://www.lsu.edu/">Louisiana State University</a>.
-
+Our work "Themis: A Fair Evaluation Platform for Computer Vision Competitions" has been accepted for presentation at IJCAI-21.
