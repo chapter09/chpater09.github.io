@@ -39,7 +39,7 @@ nav: true
             </div>
             <div class="col-sm-9 col-lg-7 col-8 mt-1 mt-md-1">
                 <h4><a href="https://hanfeiyu.github.io">Hanfei Yu</a></h4>
-                <span>2021 Fall</span><br />                
+                <span>2021 Summer</span><br />                
             </div>
          </div>
     </div>
