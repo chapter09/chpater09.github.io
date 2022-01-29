@@ -454,6 +454,10 @@ pre {
   }
 }
 
+.badge {
+  box-shadow: none;
+}
+
 code {
   color: var(--global-theme-color);
   background-color: var(--global-code-bg-color);

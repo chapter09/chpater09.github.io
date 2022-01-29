@@ -1,10 +1,49 @@
 ---
 layout: page
-title: Project todo
-description: description TBD
-img: /assets/img/L1008052.jpg
+title: Harvesting Idle Resources in Serverless Computing
+description:
+img: /assets/img/faasrm-workflow-tb.png
 importance: 1
 ---
+
+<div class="title"><strong>Harvesting Idle Resources in Serverless Computing via Reinforcement Learning</strong></div>
+<div class="author">
+    Hanfei Yu, Hao Wang, Jian Li, and Seung-Jong Park
+</div>
+<div class="periodical">
+    >>> Available at <a href="https://arxiv.org/abs/2108.12717">arXiv:2108.12717</a>, 2021
+</div>
+
+<!-- <div>
+    <div class="title">Harvesting Idle Resources in Serverless Computing via Reinforcement Learning</div>
+    <div class="author">
+        Hanfei Yu, <em>Hao Wang</em>,Jian Li, and Seung-Jong Park
+    </div>
+
+    <div class="periodical">
+        Available at <a href="https://arxiv.org/abs/2108.12717">arXiv:2108.12717</a>, 2021
+    </div>
+</div> -->
+
+<br />
+
+#### Abstract
+
+Serverless computing has become a new cloud computing paradigm that promises to deliver high cost-efficiency and
+simplified cloud deployment with automated resource scaling at a fine granularity. Users decouple a cloud application
+into chained functions and preset each serverless function's memory and CPU demands at megabyte-level and core-level,
+respectively. Serverless platforms then automatically scale the number of functions to accommodate the workloads.
+However, the complexities of chained functions make it non-trivial to accurately determine the resource demands of each
+function for users, leading to either resource over-provision or under-provision for individual functions.
+
+This paper presents FaaSRM, a new resource manager (RM) for serverless platforms that maximizes resource efficiency by
+dynamically harvesting idle resources from functions over-supplied to functions under-supplied. FaaSRM monitors each
+function's resource utilization in real-time, detects over-provisioning and under-provisioning, and applies deep
+reinforcement learning to harvest idle resources safely using a safeguard mechanism and accelerate functions
+efficiently. We have implemented and deployed a FaaSRM prototype in a 13-node Apache OpenWhisk cluster. Experimental
+results on the OpenWhisk cluster show that FaaSRM reduces the execution time of 98% of function invocations by 35.81%
+compared to the baseline RMs by harvesting idle resources from 38.8% of the invocations and accelerating 39.2% of the
+invocations.
 
 <!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -35,12 +74,13 @@ To give your project a background in the portfolio page, just add the img tag to
 </div> -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/L1008052.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid" src="{{ '/assets/img/faasrm-workflow.png' | relative_url }}" alt="" />
     </div>
 </div>
 <div class="caption">
-    LSU Campus 
+    FaaSRM workflow.
 </div>
+
 
 <!-- You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.

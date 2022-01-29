@@ -1,18 +1,38 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Wang":
+  - firstname: ["Hao", "H."]
+    url: https://intellisys.haow.ca/haowang/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Yu":
+  - firstname: ["Hanfei", "H."]
+    url: https://hanfeiyu.github.io
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Yuan": 
+  - firstname: ["Xu", "X."]
+    url: https://people.cmix.louisiana.edu/yuan/biography.html
+  
+"Park":
+  - firstname: ["Seung-Jong", "S.", "S. J."]
+    url: http://www.csc.lsu.edu/~sjpark/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Niu":
+  - firstname: ["Di", "D."]
+    url: https://sites.ualberta.ca/~dniu/Homepage/Home.html
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Guo":
+  - firstname: ["Hanxi", "H."]
+    url: http://hanxiguo.me 
+
+"Kaplan":
+  - firstname: ["Zakhary", "Z."]
+    url: https://zakhary.dev
+
+"Jian":
+  - firstname: ["Li"]
+    url: https://sites.google.com/binghamton.edu/jianli
+  
+"Li":
+  - firstname: ["Jian", "J."]
+    url: https://sites.google.com/binghamton.edu/jianli
+
+  - firstname: ["Baochun", "B.", "B. C."]
+    url: https://iqua.ece.toronto.edu/bli/index.html

@@ -76,6 +76,7 @@ nav: true
       following skills: </p>
 
     <ul>
+      <li>A solid understanding of statistics, random process, and optimization theory. Students with no computer science background are also welcomed.</li>
       <li>Familiar with UNIX-like systems and the toolchains of cloud computing. A solid understanding of operating
         systems, computer networks, and at least one programming language (<i>e.g.</i>, Python, C/C++, and Java). </li>
       <li>Knowledge in ML theory on deep learning and reinforcement learning, and experience with frameworks such as
@@ -119,5 +120,5 @@ nav: true
     </div>
   </div>
   <div class="caption">
-    LSU Campus
+    Tower Dr., LSU Campus (shot by Dr. Hao Wang | Leica M240 | Summicron-M 1:2/35 ASPH)
   </div>
