@@ -16,7 +16,7 @@ nav: true
         href="https://www.lsu.edu/">Louisiana State University (LSU)</a> as an Assistant Professor 2021 spring. I am
       looking for Ph.D. students who are self-motivated and have a strong interest in Machine Learning and Distributed
       Computing Systems. For more information about me and my research, please check my <a
-        href="https://www.haow.ca/">homepage</a>.</p>
+        href="https://intellisys.haow.ca/haowang/">homepage</a>.</p>
 
     <p>I would like to share with you my story about bridging machine learning and distributed computing systems. If you
       happen to be interested, please drop me an email with your CV and transcript at <a
@@ -115,7 +115,7 @@ nav: true
 
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/L1008052.jpg' | relative_url }}" alt=""
+      <img class="img-fluid rounded" src="{{ '/assets/img/L1008052.jpg' | relative_url }}" alt=""
         title="lsu campus" />
     </div>
   </div>

@@ -309,8 +309,11 @@ footer.sticky-bottom {
     img {
       width: 100%;
     }
+    .card-body {
+      background: $bg-grey-color;
+    }
     .card-title {
-      color: $black-color;
+      color: $white-color;
     }
   }
 }

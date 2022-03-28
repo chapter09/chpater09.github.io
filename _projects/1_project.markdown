@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Harvesting Idle Resources in Serverless Computing
+title: Resource Harvesting in Serverless Computing
 description:
-img: /assets/img/faasrm-workflow-tb.png
+img: /assets/img/serverless.png
 importance: 1
 ---
 
@@ -11,7 +11,7 @@ importance: 1
     Hanfei Yu, Hao Wang, Jian Li, and Seung-Jong Park
 </div>
 <div class="periodical">
-    >>> Available at <a href="https://arxiv.org/abs/2108.12717">arXiv:2108.12717</a>, 2021
+    >>> Available at <a href="https://arxiv.org/abs/2108.12717">arXiv:2108.12717</a>, 2021 (Accepted by the ACM WebConf 2022)
 </div>
 
 <!-- <div>

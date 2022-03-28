@@ -18,7 +18,7 @@ nav: true
     {% endif %}
       <div class="card hoverable">
         {% if project.img %}
-        <img src="{{ project.img | relative_url }}" alt="project thumbnail">
+        <div style="padding: 10px 10px"> <img src="{{ project.img | relative_url }}" alt="project thumbnail"> </div>
         {% endif %}
         <div class="card-body">
           <h4 class="card-title">{{ project.title }}</h4>

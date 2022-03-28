@@ -12,7 +12,7 @@ nav: true
 
 <div class="row">
     <div class="col-sm-3 mt-1 mt-md-1 col-md-3 col-4 col-lg-2">
-        <img class="img-fluid rounded z-depth-1" src="/assets/img/Hao_Wang.jpg" width="130px" alt="" title="haowang"/>
+        <img class="img-fluid rounded" src="/assets/img/Hao_Wang.jpg" width="130px" alt="" title="haowang"/>
     </div>
     <div class="col-sm-9 mt-1 mt-md-1 col-md-9 col-8 col-lg-8">
         <h4><a href="https://intellisys.haow.ca/haowang/">Dr. Hao Wang</a></h4>
@@ -35,7 +35,7 @@ nav: true
     <div class="col-lg-6 mt-1 mb-4 mt-md-1">
         <div class="row">
             <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                <img class="img-fluid rounded z-depth-1" src="/assets/img/HanfeiYu.jpeg" width="130px" alt="" title=""/>
+                <img class="img-fluid rounded" src="/assets/img/HanfeiYu.jpeg" width="130px" alt="" title=""/>
             </div>
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                 <h4><a href="https://hanfeiyu.github.io">Hanfei Yu</a></h4>
@@ -48,7 +48,7 @@ nav: true
     <div class="col-lg-6 mt-1 mb-4 mt-md-1">
         <div class="row">
         <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-            <img class="img-fluid rounded z-depth-1" src="/assets/img/honglu.jpeg" width="130px" alt="" title=""/>
+            <img class="img-fluid rounded" src="/assets/img/honglu.jpeg" width="130px" alt="" title=""/>
         </div>
         <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
             <h4><a href="">Honglu Li</a></h4>
@@ -67,22 +67,31 @@ nav: true
 <h3> Master Students </h3>
 ---
 <div class="container">
+<div class="row">
 
-    <div class="row">
-        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
-            <div class="row">
-                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded z-depth-1" src="/assets/img/charitra.jpg" width="130px" alt="" title=""/>
-                </div>
-                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4><a href="https://scholar.google.com/citations?user=EiwaqCEAAAAJ&hl=en">Charitra Maharjan</a></h4>
-                    <span>Master, 2022</span><br />
-                </div>
-            </div>
+    <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+        <div class="row">
+        <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+            <img class="img-fluid rounded" src="/assets/img/charitra.jpg" width="130px" alt="" title=""/>
         </div>
-        
+        <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+            <h4><a href="https://scholar.google.com/citations?user=EiwaqCEAAAAJ&hl=en">Charitra Maharjan</a></h4>
+            <span>Master, 2022</span><br />
+        </div>
+         </div>
     </div>
-
+    <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+        <div class="row">
+        <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+            <img class="img-fluid rounded" src="/assets/img/ashutosh.jpg" width="130px" alt="" title=""/>
+        </div>
+        <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+            <h4>Ashutosh Neupane</h4>
+            <span>Master, 2022</span><br />
+        </div>
+         </div>
+    </div>
+</div>
 </div>
 
 <br />
@@ -95,10 +104,21 @@ nav: true
     <div class="col-lg-6 mt-1 mb-4 mt-md-1">
         <div class="row">
             <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                <img class="img-fluid rounded z-depth-1" src="/assets/img/christian_fontenot.jpg" width="130px" alt="" title=""/>
+                <img class="img-fluid rounded" src="/assets/img/christian_fontenot.jpg" width="130px" alt="" title=""/>
             </div>
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                 <h4><a href="https://chfont.github.io/">Christian Fontenot</a></h4>
+                <span></span><br />                
+            </div>
+         </div>
+    </div>
+    <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+        <div class="row">
+            <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                <img class="img-fluid rounded" src="/assets/img/nasser.jpeg" width="130px" alt="" title=""/>
+            </div>
+            <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                <h4><a href="">Nasser J Mohammed</a></h4>
                 <span></span><br />                
             </div>
          </div>
@@ -120,7 +140,7 @@ nav: true
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded z-depth-1" src="/assets/img/roshan.jpg" width="130px" alt="" title=""/>
+                    <img class="img-fluid rounded" src="/assets/img/roshan.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4><a href="https://www.linkedin.com/in/roshankoirala05/">Roshan Koirala</a></h4>
