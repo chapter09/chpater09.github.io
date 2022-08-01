@@ -72,17 +72,6 @@ nav: true
     <div class="col-lg-6 mt-1 mb-4 mt-md-1">
         <div class="row">
         <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-            <img class="img-fluid rounded" src="/assets/img/charitra.jpg" width="130px" alt="" title=""/>
-        </div>
-        <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-            <h4><a href="https://scholar.google.com/citations?user=EiwaqCEAAAAJ&hl=en">Charitra Maharjan</a></h4>
-            <span>Master, 2022</span><br />
-        </div>
-         </div>
-    </div>
-    <div class="col-lg-6 mt-1 mb-4 mt-md-1">
-        <div class="row">
-        <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
             <img class="img-fluid rounded" src="/assets/img/ashutosh.jpg" width="130px" alt="" title=""/>
         </div>
         <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
@@ -101,17 +90,7 @@ nav: true
 <div class="container">
 
 <div class="row">
-    <div class="col-lg-6 mt-1 mb-4 mt-md-1">
-        <div class="row">
-            <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                <img class="img-fluid rounded" src="/assets/img/christian_fontenot.jpg" width="130px" alt="" title=""/>
-            </div>
-            <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                <h4><a href="https://chfont.github.io/">Christian Fontenot</a></h4>
-                <span></span><br />                
-            </div>
-         </div>
-    </div>
+    
     <div class="col-lg-6 mt-1 mb-4 mt-md-1">
         <div class="row">
             <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -125,7 +104,8 @@ nav: true
     </div>
     
 </div>
-<div class="row">
+
+<!-- <div class="row">
     <div class="col-lg-6 mt-1 mb-4 mt-md-1">
         <div class="row">
             <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -137,7 +117,7 @@ nav: true
             </div>
          </div>
     </div>
-</div>
+</div> -->
 </div>
 
 <br />
@@ -189,6 +169,35 @@ nav: true
 <div class="container">
 
     <div class="row">
+
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+        <div class="row">
+            <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                <img class="img-fluid rounded" src="/assets/img/christian_fontenot.jpg" width="130px" alt="" title=""/>
+            </div>
+            <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                <h4><a href="https://chfont.github.io/">Christian Fontenot</a></h4>
+                <span>Undergraduate RA, 2021-2022</span><br />  
+                <span>Now Ph.D. student at University of Colorado Boulder</span><br />                
+            </div>
+         </div>
+    </div>
+
+
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/charitra.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4><a href="https://scholar.google.com/citations?user=EiwaqCEAAAAJ&hl=en">Charitra Maharjan</a></h4>
+                    <span>Master, 2022</span><br />
+                    <span>Thesis: "<i>Evaluating ARM-based Serverless Computing</i>"</span><br />
+                </div>
+            </div>
+        </div>
+
+
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -203,5 +212,8 @@ nav: true
         </div>
         
     </div>
+
+
+    
 
 </div>
