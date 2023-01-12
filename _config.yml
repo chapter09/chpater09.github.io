@@ -91,6 +91,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  k12projects:
+    output: true
+    permalink: /k12projects/:path/
 
 news_limit: 5
 
