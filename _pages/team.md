@@ -86,7 +86,7 @@ nav: true
             </div>
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                 <h4>Sowmya S Garikapati</h4>
-                <span>Master, 2024</span><br />
+                <span>Master, 2023</span><br />
             </div>
             </div>
         </div>
