@@ -77,6 +77,7 @@ nav: true
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                 <h4>Zhi-Ruei Tu</h4>
                 <span>Master, 2023</span><br />
+                <span>Distributed Reinforcement Learning</span><br />
             </div>
             </div>
         </div>
@@ -88,6 +89,7 @@ nav: true
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                 <h4>Sowmya S Garikapati</h4>
                 <span>Master, 2023</span><br />
+                <span>Gaming AI</span><br />
             </div>
             </div>
         </div>
@@ -102,6 +104,7 @@ nav: true
 
 <div class="container">
     <div class="row">
+
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -109,10 +112,11 @@ nav: true
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>Nasser J Mohammed</h4>
-                    <span></span><br />                
+                    <span>Automating Material Measurement and Evaluation using CV Approaches</span><br />                
                 </div>
             </div>
         </div>
+
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -120,10 +124,12 @@ nav: true
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>Sejal V Patel</h4>
-                    <span></span><br />                
+                    <span>from Women in Computer Science at LSU (WICS LSU)</span><br />   
+                    <span>Backdoor Attack to AI Models</span><br />                
                 </div>
             </div>
         </div>
+
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -131,10 +137,12 @@ nav: true
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>Michelle Vo</h4>
-                    <span></span><br />                
+                    <span>from Women in Computer Science at LSU (WICS LSU)</span><br />      
+                    <span>Backdoor Attack to AI Models</span><br />                
                 </div>
             </div>
         </div>
+
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -142,7 +150,19 @@ nav: true
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>Jacob Carter</h4>
-                    <span></span><br />                
+                    <span>AI-driven Optimization of Distributed Systems</span><br />                
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/faris.jpeg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4>Faris Khattak</h4>
+                    <span>AI-driven Optimization of Distributed Systems</span><br />                
                 </div>
             </div>
         </div>
