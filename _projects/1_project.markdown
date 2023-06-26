@@ -6,13 +6,40 @@ img: /assets/img/serverless.png
 importance: 1
 ---
 
+
+<div class="title"><strong>Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters</strong></div>
+<div class="author">
+    Hanfei Yu, Christian Fontenot, Hao Wang, Jian Li, Xu Yuan, and Seung-Jong Park
+</div>
+<!-- <div class="periodical"> -->
+------Accepted by the ACM HPDC 2023, [[PDF]](Libra_Hanfei_HPDC23.pdf)
+<!-- </div> -->
+
+<br />
+
+
+#### Abstract
+
+Serverless computing has been favored by users and infrastructure providers from various industries, including online services and scientific computing. Users enjoy its auto-scaling and ease-of-management, and providers own more control to optimize their service. However, existing serverless platforms still require users to pre-define resource allocations for their functions, leading to frequent misconfiguration by inexperienced users in practice. Besides, functions’ varying input data further escalate the gap between their dynamic resource demands and static allocations, leaving functions either over-provisioned or under-provisioned. This paper presents Libra, a safe and timely resource harvesting framework for multi-node serverless clusters. Libra makes precise harvesting decisions to accelerate function invocations with harvested resources and jointly improve resource utilization by profiling dynamic resource demands and availability proactively. Experiments on OpenWhisk clusters with real-world workloads show that Libra reduces response latency by 39% and achieves 3× resource utilization compared to state-of-the-art solutions. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid mx-auto d-block" width="70%" src="{{ '/assets/img/libra.png' | relative_url }}" alt="" />
+    </div>
+</div>
+<div class="caption">
+    Libra workflow.
+</div>
+<br />
+
+---
+
 <div class="title"><strong>Harvesting Idle Resources in Serverless Computing via Reinforcement Learning</strong></div>
 <div class="author">
     Hanfei Yu, Hao Wang, Jian Li, and Seung-Jong Park
 </div>
-<div class="periodical">
-    >>> Available at <a href="https://arxiv.org/abs/2108.12717">arXiv:2108.12717</a>, 2021 (Accepted by the ACM WebConf 2022)
-</div>
+------Accepted by the ACM WebConf 2022, available at <a href="https://arxiv.org/abs/2108.12717">arXiv:2108.12717</a>
+
 
 <!-- <div>
     <div class="title">Harvesting Idle Resources in Serverless Computing via Reinforcement Learning</div>
