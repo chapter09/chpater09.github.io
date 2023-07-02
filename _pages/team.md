@@ -89,7 +89,8 @@ nav: true
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                 <h4>Sowmya S Garikapati</h4>
                 <span>2023 Spring</span><br />
-                <span>Gaming AI</span><br />
+                <span><i>Co-advised with <a href="https://www.lsu.edu/physics/people/faculty/moreno.php">Dr. Juana Moreno</a></i></span><br />
+                <span>Gaming AI and AI Education for <a href="https://www.brbytes.org">BRBytes</a></span><br />
             </div>
             </div>
         </div>
