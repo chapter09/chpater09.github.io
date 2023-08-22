@@ -114,8 +114,8 @@ nav: true
   </section>
 
   <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      <img class="img-fluid rounded mx-auto d-block" src="{{ '/assets/img/L1008052.jpg' | relative_url }}" alt=""
+    <div class="col-sm mt-3 mt-md-0 mx-auto d-block">
+      <img class="img-fluid rounded" src="{{ '/assets/img/L1008052.jpg' | relative_url }}" alt=""
         title="lsu campus" />
     </div>
   </div>

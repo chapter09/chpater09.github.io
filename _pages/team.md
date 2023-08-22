@@ -69,18 +69,7 @@ nav: true
 ---
 <div class="container">
     <div class="row">
-        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
-            <div class="row">
-            <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                <img class="img-fluid rounded" src="/assets/img/zhi-ruei-tu.jpg" width="130px" alt="" title=""/>
-            </div>
-            <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                <h4>Zhi-Ruei Tu</h4>
-                <span>2022 Fall</span><br />
-                <span>Distributed Reinforcement Learning</span><br />
-            </div>
-            </div>
-        </div>
+        
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
             <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -88,7 +77,7 @@ nav: true
             </div>
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                 <h4>Sowmya S Garikapati</h4>
-                <span>2023 Spring</span><br />
+                <span>Joined at 2023 Spring</span><br />
                 <span><i>Co-advised with <a href="https://www.lsu.edu/physics/people/faculty/moreno.php">Dr. Juana Moreno</a></i></span><br />
                 <span>Gaming AI and AI Education for <a href="https://www.brbytes.org">BRBytes</a></span><br />
             </div>
@@ -101,7 +90,7 @@ nav: true
             </div>
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                 <h4>Shaghayegh Rabbanian</h4>
-                <span>2022 Fall</span><br />
+                <span>Joined at 2022 Fall</span><br />
                 <span>Reinforcement Learning-driven Multi-Depot Vehicle Routing</span><br />
                 <span>Ph.D. candidate from the MIE Department</span><br />
                 <!-- <span><i>Co-advised with Dr. Gerald M. Knapp</i></span><br /> -->
@@ -115,10 +104,21 @@ nav: true
             </div>
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                 <h4>Saber Nemati</h4>
-                <span>2023 Spring</span><br />
+                <span>Joined at 2023 Spring</span><br />
                 <span>Material Fatigue Measurement with Computer Vision</span><br />
                 <span>Ph.D. candidate from the MIE Department</span><br />
-                <!-- <span><i>Co-advised with Dr. Shengmin Guo</i></span><br /> -->
+            </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+            <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                <img class="img-fluid rounded" src="/assets/img/Sumit-Dhungana.jpeg" width="130px" alt="" title=""/>
+            </div>
+            <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                <h4>Sumit Dhungana</h4>
+                <span>Joined at 2023 Fall</span><br />
+                <span>Analyzing Health Data from Wearable Devices</span><br />
             </div>
             </div>
         </div>
@@ -146,19 +146,7 @@ nav: true
             </div>
         </div>
 
-        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
-            <div class="row">
-                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/sejal.jpg" width="130px" alt="" title=""/>
-                </div>
-                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4>Sejal V Patel</h4>
-                    <span>from Women in Computer Science at LSU (WICS LSU)</span><br />   
-                    <span>Backdoor Attack to AI Models</span><br />                
-                </div>
-            </div>
-        </div>
-
+        
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -202,15 +190,30 @@ nav: true
 
 
 
-<!-- <h3> High School Summer Interns </h3>
+<h3> High School Interns </h3>
 ---
+
 <div class="container">
+    <div class="row">
 
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/william-wei.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4>William Wei</h4>
+                    <span>:trophy: The 2nd place winner, LSU High School Summer Research Program, 2023</span><br />
+                    <span>Baton Rouge Magnet High School</span><br />
+                    <span><a href="/k12projects/3_project/">Project: Backdoor self-driving models</a></span>                   
+                </div>
+            </div>
+        </div>
 
-
+    </div>
 </div>
 
-<br /> -->
+<br />
 
 
 
@@ -218,8 +221,32 @@ nav: true
 <h3> Alumni </h3>
 ---
 <div class="container">
-
+    
     <div class="row">
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+            <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                <img class="img-fluid rounded" src="/assets/img/zhi-ruei-tu.jpg" width="130px" alt="" title=""/>
+            </div>
+            <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                <h4>Zhi-Ruei Tu</h4>
+                <span>Master, 2023</span><br />
+                <span>Distributed Reinforcement Learning</span><br />
+            </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/sejal.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4>Sejal V Patel</h4>
+                    <span>from Women in Computer Science at LSU (WICS LSU)</span><br />   
+                    <span>Backdoor Attack to AI Models</span><br />                
+                </div>
+            </div>
+        </div>
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
             <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">

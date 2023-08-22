@@ -8,7 +8,7 @@ nav: true
 
 ## Road Map
 ---
-
+<br />
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
       <img class="img-fluid mx-auto d-block" src="{{ '/assets/img/roadmap.svg' | relative_url }}" width="100%" alt="" title="road map" />
@@ -16,10 +16,12 @@ nav: true
 </div>
 
 <br />
+<br />
+
 
 ## Research Projects
 ---
-
+<br />
 <div class="projects grid">
 
   {% assign sorted_projects = site.projects | sort: "importance" %}
@@ -36,7 +38,7 @@ nav: true
         {% endif %}
         <div class="card-body">
           <h4 class="card-title">{{ project.title }}</h4>
-          <p class="card-text">{{ project.description }}</p>
+          <!-- <p class="card-text">{{ project.description }}</p> -->
           <div class="row ml-1 mr-1 p-0">
             {% if project.github %}
             <div class="github-icon">
@@ -65,7 +67,7 @@ nav: true
 
 ### K-12 Projects
 ---
-
+<br />
 <div class="projects grid">
 
   {% assign sorted_projects = site.k12projects | sort: "importance" %}
@@ -82,7 +84,7 @@ nav: true
         {% endif %}
         <div class="card-body">
           <h4 class="card-title">{{ project.title }}</h4>
-          <p class="card-text">{{ project.description }}</p>
+          <!-- <p class="card-text">{{ project.description }}</p> -->
           <div class="row ml-1 mr-1 p-0">
             {% if project.github %}
             <div class="github-icon">

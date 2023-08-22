@@ -305,15 +305,18 @@ footer.sticky-bottom {
       }
     }
   }
-  .card { 
+  .card {
+    border-radius: 10px; 
     img {
       width: 100%;
     }
     .card-body {
       background: $bg-grey-color;
+      border-radius: 0 0 10px 10px; 
     }
     .card-title {
       color: $white-color;
+      margin-bottom: 0;
     }
   }
 }
