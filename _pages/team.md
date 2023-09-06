@@ -58,6 +58,31 @@ nav: true
         </div>
          </div>
     </div>
+    <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+        <div class="row">
+        <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+            <img class="img-fluid rounded" src="/assets/img/vinaik.png" width="130px" alt="" title=""/>
+        </div>
+        <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+            <h4><a href="">Vinaik Chhetri</a></h4>
+            <span>2023 Fall</span> <br />
+            <span>B.S. Simon Fraser University</span> <br />
+            <span>M.S. Università della Svizzera italiana</span>
+        </div>
+         </div>
+    </div>
+    <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+        <div class="row">
+        <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+            <img class="img-fluid rounded" src="/assets/img/ahmad.jpeg" width="130px" alt="" title=""/>
+        </div>
+        <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+            <h4><a href="https://ahmadrezahadi.github.io">Ahmadreza Hadi</a></h4>
+            <span>2023 Fall</span> <br />
+            <span>B.S. Isfahan University of Technology</span> <br />
+        </div>
+         </div>
+    </div>
     
 </div>
 </div>
@@ -147,19 +172,7 @@ nav: true
         </div>
 
         
-        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
-            <div class="row">
-                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/michelle.jpg" width="130px" alt="" title=""/>
-                </div>
-                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4>Michelle Vo</h4>
-                    <span>from Women in Computer Science at LSU (WICS LSU)</span><br />      
-                    <span>Backdoor Attack to AI Models</span><br />                
-                </div>
-            </div>
-        </div>
-
+        
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -183,6 +196,34 @@ nav: true
                 </div>
             </div>
         </div>
+
+
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/damien.jpeg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4>Damien H Nguyen</h4>
+                    <span>freshmen student from the <a href="https://www.lsu.edu/discover/funding/presidents_future_leaders_in_research.php">President's Future Leader in Research (PFLR)</a> scholarship project</span><br />      
+                    <br />                
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/khalil.jpeg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4>Khalil I El-abbassi</h4>
+                    <span>freshmen student from the <a href="https://www.lsu.edu/discover/funding/presidents_future_leaders_in_research.php">President's Future Leader in Research (PFLR)</a> scholarship project</span><br />      
+                    <br />                
+                </div>
+            </div>
+        </div>
+
     </div>
 </div>
 
@@ -233,6 +274,18 @@ nav: true
                 <span>Master, 2023</span><br />
                 <span>Distributed Reinforcement Learning</span><br />
             </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/michelle.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4>Michelle Vo</h4>
+                    <span>from Women in Computer Science at LSU (WICS LSU)</span><br />      
+                    <span>Backdoor Attack to AI Models</span><br />                
+                </div>
             </div>
         </div>
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
