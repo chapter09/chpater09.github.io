@@ -40,3 +40,42 @@
 "Fontenot":
   - firstname: ["Christian", "C."]
     url: https://chfont.github.io
+
+"Tiwari":
+  - firstname: ["Devesh"]
+    url: https://coe.northeastern.edu/people/tiwari-devesh/
+
+"Roy":
+  - firstname: ["Rohan Basu"]
+    url: https://rohanbasuroy.github.io
+
+"Zhang":
+  - firstname: ["Hong"]
+    url: https://hongzhangblaze.github.io
+
+  - firstname: ["Jianqing"]
+    url: https://scholar.google.com/citations?user=lppe2vwAAAAJ&hl=en
+
+"Yan":
+  - firstname: ["Gang"]
+    url: https://www.gyan23.com
+
+"Hua":
+  - firstname: ["Yang"]
+    url: https://pure.qub.ac.uk/en/persons/yang-hua
+
+"Bai":
+  - firstname: ["Wei"]
+    url: wei0427.github.io
+
+"Lloyd":
+  - firstname: ["Wes J."]
+    url: http://faculty.washington.edu/wlloyd/
+
+"Chen":
+  - firstname: ["Kai"]
+    url: https://www.cse.ust.hk/~kaichen/
+
+"Zhao":
+  - firstname: ["Yangming"]
+    url: https://cs.ustc.edu.cn/2021/0803/c23237a519117/pagem.htm

@@ -145,8 +145,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: Wang
-  first_name: Hao
+  last_name: []
+  first_name: []
 
   style: apa
   locale: en
