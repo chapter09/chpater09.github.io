@@ -28,11 +28,11 @@
 
 "Jian":
   - firstname: ["Li"]
-    url: https://sites.google.com/binghamton.edu/jianli
+    url: https://sites.google.com/stonybrook.edu/jianli
   
 "Li":
   - firstname: ["Jian", "J."]
-    url: https://sites.google.com/binghamton.edu/jianli
+    url: https://sites.google.com/stonybrook.edu/jianli
 
   - firstname: ["Baochun", "B.", "B. C."]
     url: https://iqua.ece.toronto.edu/bli/index.html
@@ -79,3 +79,7 @@
 "Zhao":
   - firstname: ["Yangming"]
     url: https://cs.ustc.edu.cn/2021/0803/c23237a519117/pagem.htm
+
+"Baggili":
+  - firstname: ["Ibrahim"]
+    url: https://csc.lsu.edu/~baggili/PI-Baggili.html 

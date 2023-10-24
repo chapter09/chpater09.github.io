@@ -224,6 +224,19 @@ nav: true
             </div>
         </div>
 
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/brandon.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4>Brandon J Walton</h4>
+                    <span>Automating Material Measurement and Evaluation using CV Approaches</span><br />                
+                    <br />                
+                </div>
+            </div>
+        </div>
+
     </div>
 </div>
 
@@ -328,7 +341,7 @@ nav: true
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/ryan_ding.jpg" width="130px" alt="" title=""/>
+                    <img class="img-fluid rounded" src="/assets/img/ryan_ding.JPG" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>Ryan Ding</h4>
