@@ -98,19 +98,6 @@ nav: true
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
             <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                <img class="img-fluid rounded" src="/assets/img/sowmya.jpg" width="130px" alt="" title=""/>
-            </div>
-            <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                <h4>Sowmya S Garikapati</h4>
-                <span>Joined at 2023 Spring</span><br />
-                <span><i>Co-advised with <a href="https://www.lsu.edu/physics/people/faculty/moreno.php">Dr. Juana Moreno</a></i></span><br />
-                <span>Gaming AI and AI Education for <a href="https://www.brbytes.org">BRBytes</a></span><br />
-            </div>
-            </div>
-        </div>
-        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
-            <div class="row">
-            <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
                 <img class="img-fluid rounded" src="/assets/img/shaghayegh.jpg" width="130px" alt="" title=""/>
             </div>
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
@@ -180,7 +167,7 @@ nav: true
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>Jacob Carter</h4>
-                    <span>AI-driven Optimization of Distributed Systems</span><br />                
+                    <span>Serverless computing systems for AI</span><br />                
                 </div>
             </div>
         </div>
@@ -192,7 +179,7 @@ nav: true
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>Faris Khattak</h4>
-                    <span>AI-driven Optimization of Distributed Systems</span><br />                
+                    <span>LLM-driven Scheduling for Distributed Systems</span><br />                
                 </div>
             </div>
         </div>
@@ -232,6 +219,19 @@ nav: true
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>Brandon J Walton</h4>
                     <span>Automating Material Measurement and Evaluation using CV Approaches</span><br />                
+                    <br />                
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/hudson.jpeg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4>Hudson N Vu</h4>
+                    <span>Computer Vision</span><br />                
                     <br />                
                 </div>
             </div>
@@ -277,6 +277,19 @@ nav: true
 <div class="container">
     
     <div class="row">
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+            <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                <img class="img-fluid rounded" src="/assets/img/sowmya.jpg" width="130px" alt="" title=""/>
+            </div>
+            <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                <h4>Sowmya S Garikapati</h4>
+                <span>Master, 2023</span><br />
+                <span><i>Co-advised with <a href="https://www.lsu.edu/physics/people/faculty/moreno.php">Dr. Juana Moreno</a></i></span><br />
+                <span>Gaming AI and AI Education for <a href="https://www.brbytes.org">BRBytes</a></span><br />
+            </div>
+            </div>
+        </div>
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
             <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">

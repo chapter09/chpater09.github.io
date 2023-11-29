@@ -114,7 +114,7 @@ nav: true
 <br />
 
 
-### Hackathons
+### Hackathons & Tutorials
 ---
 <br />
 <div class="projects grid">
