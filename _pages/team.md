@@ -153,6 +153,7 @@ nav: true
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>Nasser J Mohammed</h4>
+                    <span>Joined at 2021 Fall</span><br />
                     <span>Automating Material Measurement and Evaluation using CV Approaches</span><br />                
                 </div>
             </div>
@@ -167,6 +168,7 @@ nav: true
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>Jacob Carter</h4>
+                    <span>Joined at 2023 Fall</span><br />
                     <span>Serverless computing systems for AI</span><br />                
                 </div>
             </div>
@@ -179,6 +181,7 @@ nav: true
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>Faris Khattak</h4>
+                    <span>Joined at 2022 Fall</span><br />
                     <span>LLM-driven Scheduling for Distributed Systems</span><br />                
                 </div>
             </div>
@@ -192,7 +195,8 @@ nav: true
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>Damien H Nguyen</h4>
-                    <span>freshmen student from the <a href="https://www.lsu.edu/discover/funding/presidents_future_leaders_in_research.php">President's Future Leader in Research (PFLR)</a> scholarship project</span><br />      
+                    <span>Joined at 2023 Fall</span><br />
+                    <span>Freshmen student from the <a href="https://www.lsu.edu/discover/funding/presidents_future_leaders_in_research.php">President's Future Leader in Research (PFLR)</a> scholarship project</span><br />      
                     <br />                
                 </div>
             </div>
@@ -205,7 +209,8 @@ nav: true
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>Khalil I El-abbassi</h4>
-                    <span>freshmen student from the <a href="https://www.lsu.edu/discover/funding/presidents_future_leaders_in_research.php">President's Future Leader in Research (PFLR)</a> scholarship project</span><br />      
+                    <span>Joined at 2023 Fall</span><br />
+                    <span>Freshmen student from the <a href="https://www.lsu.edu/discover/funding/presidents_future_leaders_in_research.php">President's Future Leader in Research (PFLR)</a> scholarship project</span><br />      
                     <br />                
                 </div>
             </div>
@@ -218,6 +223,7 @@ nav: true
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>Brandon J Walton</h4>
+                    <span>Joined at 2023 Fall</span><br />
                     <span>Automating Material Measurement and Evaluation using CV Approaches</span><br />                
                     <br />                
                 </div>
@@ -231,7 +237,23 @@ nav: true
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>Hudson N Vu</h4>
+                    <span>Joined at 2023 Fall</span><br />
                     <span>Computer Vision</span><br />                
+                    <br />                
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/hayden.jpeg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4>Hayden Duplantier</h4>
+                    <span>Joined at 2023 Fall</span><br />
+                    <span>With the <a href="https://www.lsu.edu/cybersecurity/scholarships-for-service/index.php">LSU Scholarship for Service (SFS)</a> project</span><br/>
+                    <span>AI Model Ballistics</span><br />                
                     <br />                
                 </div>
             </div>
