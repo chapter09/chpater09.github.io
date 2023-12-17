@@ -279,6 +279,7 @@ nav: true
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>William Wei</h4>
+                    <span>:tada: Admitted by Yale</span><br />
                     <span>:trophy: The 2nd place winner, LSU High School Summer Research Program, 2023</span><br />
                     <span>Baton Rouge Magnet High School</span><br />
                     <span><a href="/k12projects/3_project/">Project: Backdoor self-driving models</a></span>                   
