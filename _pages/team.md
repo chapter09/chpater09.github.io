@@ -58,7 +58,7 @@ nav: true
         </div>
          </div>
     </div>
-    <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+    <!-- <div class="col-lg-6 mt-1 mb-4 mt-md-1">
         <div class="row">
         <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
             <img class="img-fluid rounded" src="/assets/img/vinaik.png" width="130px" alt="" title=""/>
@@ -70,7 +70,7 @@ nav: true
             <span>M.S. Università della Svizzera italiana</span>
         </div>
          </div>
-    </div>
+    </div> -->
     <div class="col-lg-6 mt-1 mb-4 mt-md-1">
         <div class="row">
         <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -92,7 +92,7 @@ nav: true
 
 <h3> Master Students </h3>
 ---
-<div class="container">
+<!-- <div class="container">
     <div class="row">                
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
@@ -109,7 +109,7 @@ nav: true
     </div>
 </div>
 
-<br />
+<br /> -->
 
 <h3> Undergraduate Students </h3>
 
@@ -131,8 +131,6 @@ nav: true
             </div>
         </div>
 
-        
-        
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -188,7 +186,7 @@ nav: true
             </div>
         </div>
 
-        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+        <!-- <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
                     <img class="img-fluid rounded" src="/assets/img/brandon.jpg" width="130px" alt="" title=""/>
@@ -200,7 +198,7 @@ nav: true
                     <br />                
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
