@@ -35,7 +35,7 @@ nav: true
     <div class="col-lg-6 mt-1 mb-4 mt-md-1">
         <div class="row">
             <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                <img class="img-fluid rounded" src="/assets/img/hanfei.png" width="130px" alt="" title=""/>
+                <img class="img-fluid rounded" src="/assets/img/hanfei-new.JPG" width="130px" alt="" title=""/>
             </div>
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                 <h4><a href="https://hanfeiyu.github.io">Hanfei Yu</a></h4>
@@ -57,20 +57,7 @@ nav: true
             <span><i>Co-advised with Dr. Seung-Jong Park</i></span>
         </div>
          </div>
-    </div>
-    <!-- <div class="col-lg-6 mt-1 mb-4 mt-md-1">
-        <div class="row">
-        <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-            <img class="img-fluid rounded" src="/assets/img/vinaik.png" width="130px" alt="" title=""/>
-        </div>
-        <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-            <h4><a href="">Vinaik Chhetri</a></h4>
-            <span>2023 Fall</span> <br />
-            <span>B.S. Simon Fraser University</span> <br />
-            <span>M.S. Università della Svizzera italiana</span>
-        </div>
-         </div>
-    </div> -->
+    </div>  
     <div class="col-lg-6 mt-1 mb-4 mt-md-1">
         <div class="row">
         <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -83,7 +70,19 @@ nav: true
         </div>
          </div>
     </div>
-    
+    <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+        <div class="row">
+        <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+            <img class="img-fluid rounded" src="/assets/img/zixun.jpg" width="130px" alt="" title=""/>
+        </div>
+        <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+            <h4><a href="">Zixun Xiong</a></h4>
+            <span>2024 Summer</span> <br />
+            <span>B.S. Nanking Audit University</span> <br />
+            <span>M.S. University of Massachusetts Amherst</span>
+        </div>
+         </div>
+    </div>
 </div>
 </div>
 
