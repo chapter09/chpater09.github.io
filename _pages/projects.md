@@ -212,7 +212,7 @@ nav: true
 <br />
 
 
-### Hackathons & Tutorials
+### Hackathons, Tutorials, and Teaching
 ---
 <br />
 <div class="projects grid">
