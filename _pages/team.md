@@ -71,6 +71,19 @@ nav: true
         </div>
          </div>
     </div>
+    <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+        <div class="row">
+        <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+            <img class="img-fluid rounded" src="/assets/img/ruiwei.jpg" width="130px" alt="" title=""/>
+        </div>
+        <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+            <h4><a href="https://me.waynetech.site">Richard (Rui) Wei</a></h4>
+            <span>2024 Fall</span> <br />
+            <span>B.S. Chongqing University</span> <br />
+            <span>M.S. Boston University</span>
+        </div>
+         </div>
+    </div>
 </div>
 </div>
 
@@ -312,8 +325,8 @@ nav: true
             </div>
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                 <h4>Shaghayegh Rabbanian</h4>
-                <span>Joined at 2022 Fall</span><br />
-                <span>Reinforcement Learning-driven Multi-Depot Vehicle Routing [<a href="https://iise.confex.com/iise/2023/meetingapp.cgi/Paper/3575">IISE</a>]</span><br />
+                <span>Master, 2023</span><br />
+                <span>Reinforcement Learning-driven Multi-Depot Vehicle Routing [<a href="https://iise.confex.com/iise/2023/meetingapp.cgi/Paper/3575">IISE'23</a>]</span><br />
                 <span>Ph.D. from the MIE Department</span><br />
                 <!-- <span><i>Co-advised with Dr. Gerald M. Knapp</i></span><br /> -->
             </div>
@@ -326,8 +339,8 @@ nav: true
             </div>
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                 <h4>Saber Nemati</h4>
-                <span>Joined at 2023 Spring</span><br />
-                <span>Material Fatigue Measurement with Computer Vision [<a href="https://openreview.net/forum?id=mlQMqXo083">NeurIPS AI4Mat</a>]</span><br />
+                <span>Master, 2023</span><br />
+                <span>Material Fatigue Measurement with Computer Vision [<a href="https://openreview.net/forum?id=mlQMqXo083">NeurIPS AI4Mat'23</a>]</span><br />
                 <span>Ph.D. from the MIE Department</span><br />
             </div>
             </div>
