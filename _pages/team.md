@@ -165,7 +165,7 @@ nav: true
                 </div>
             </div>
         </div>
-        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+        <!-- <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
                     <img class="img-fluid rounded" src="/assets/img/khalil.jpeg" width="130px" alt="" title=""/>
@@ -177,7 +177,7 @@ nav: true
                     <br />
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -204,7 +204,7 @@ nav: true
                 </div>
             </div>
         </div>
-        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+        <!-- <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
                     <img class="img-fluid rounded" src="/assets/img/hayden.jpeg" width="130px" alt="" title=""/>
@@ -217,7 +217,7 @@ nav: true
                     <br />
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
