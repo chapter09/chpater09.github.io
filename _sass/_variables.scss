@@ -18,13 +18,14 @@ $green-color-dark:    #009f06 !default;
 $green-color-light:   #ddffdd !default;
 $green-color-bright:  #11D68B !default;
 $purple-color:        rgb(70, 29, 124) !default;
+$stevens-red:         rgb(163, 38, 56) !default;
 $bg-grey-color:  rgb(103, 103, 103);
 $light-purple-color:  lighten($purple-color, 25%);
 $pink-color:          #f92080 !default;
 $pink-color-light:    #ffdddd !default;
 $yellow-color:        #efcc00 !default;
 
-$grey-color:          #828282 !default;
+$grey-color:          #7F7F7F !default;
 $grey-color-light:    lighten($grey-color, 40%);
 $grey-color-dark:     darken($grey-color, 25%);
 
@@ -34,6 +35,6 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light:     rgba($purple-color, 0.05);
+$code-bg-color-light:     rgba($stevens-red, 0.05);
 $code-bg-color-dark:      #2c3237 !default;
 

@@ -127,31 +127,7 @@ nav: true
                     <span>Automating Material Measurement and Evaluation using CV Approaches</span><br />
                 </div>
             </div>
-        </div>
-        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
-            <div class="row">
-                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/jacob.jpeg" width="130px" alt="" title=""/>
-                </div>
-                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4>Jacob Carter</h4>
-                    <span>Joined at 2023 Fall</span><br />
-                    <span>Serverless computing systems for AI</span><br />
-                </div>
-            </div>
-        </div>
-        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
-            <div class="row">
-                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/faris.jpeg" width="130px" alt="" title=""/>
-                </div>
-                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4>Faris Khattak</h4>
-                    <span>Joined at 2022 Fall</span><br />
-                    <span>LLM-driven Scheduling for Distributed Systems</span><br />
-                </div>
-            </div>
-        </div>
+        </div>        
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -256,14 +232,12 @@ nav: true
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/william-wei.jpg" width="130px" alt="" title=""/>
+                    <img class="img-fluid rounded" src="/assets/img/ethanwang.png" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4>William Wei</h4>
-                    <span>:tada: Admitted by Yale</span><br />
-                    <span>:trophy: The 2nd place winner, LSU High School Summer Research Program, 2023</span><br />
-                    <span>Baton Rouge Magnet High School</span><br />
-                    <span><a href="/k12projects/3_project/">Project: Backdoor self-driving models</a></span>
+                    <h4>Ethan Wang</h4>
+                    <span>Barbe High School, LSU High School Summer Research Program, 2024</span><br />
+                    <span><a>Project: Multi-agent RL</a></span>
                 </div>
             </div>
         </div>
@@ -276,6 +250,44 @@ nav: true
 ---
 <div class="container">
     <div class="row">
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/william-wei.jpg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4>William Wei</h4>
+                    <span>:tada: Admitted by Yale</span><br />
+                    <span>:trophy: The 2nd place winner, LSU High School Summer Research Program, 2023</span><br />
+                    <span>Baton Rouge Magnet High School</span><br />
+                    <span><a href="/k12projects/3_project/">Project: Backdoor self-driving models</a></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/jacob.jpeg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4>Jacob Carter</h4>
+                    <span>Joined at 2023 Fall</span><br />
+                    <span>Serverless computing systems for AI</span><br />
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/faris.jpeg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4>Faris Khattak</h4>
+                    <span>Joined at 2022 Fall</span><br />
+                    <span>LLM-driven Scheduling for Distributed Systems</span><br />
+                </div>
+            </div>
+        </div>
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
             <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
