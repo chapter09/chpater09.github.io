@@ -72,13 +72,13 @@ We have received 75 applicants and accepted 33 participants for the boot camp (m
     </div>
 
     <div class="row">
-        <div class="col-9 col-sm-9 col-md-9 col-lg-9 mt-md-0">
+        <div class="col-8 col-sm-8 col-md-8 col-lg-9 mt-md-0">
             <img class="img-fluid rounded mx-auto d-block" src="{{ '/assets/img/tigerai-4.JPG' | relative_url }}" alt="" />
             <div class="caption">
                 Mr. Charles Masters (IBM) and Dr. Hao Wang (LSU) are signing boot camp certificates.
             </div>
         </div>
-        <div class="col-3 col-sm-3 col-md-3 col-lg-3 mt-md-0">
+        <div class="col-4 col-sm-4 col-md-4 col-lg-3 mt-md-0">
             <img class="img-fluid rounded mx-auto d-block" src="{{ '/assets/img/tigerai-6.jpeg' | relative_url }}" alt="" />
             <div class="caption">
                 A talk give by Dr. Bijaya Karki (LSU)

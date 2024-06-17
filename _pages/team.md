@@ -39,7 +39,7 @@ nav: true
             <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                 <h4><a href="https://hanfeiyu.github.io">Hanfei Yu</a></h4>
                 <span>2021 Summer</span> <br />                
-                <span>[<a href="https://intellisys.haow.ca/assets/pdf/hanfei_freyr_webconf22.pdf">WWW'22</a>], [<a href="https://intellisys.haow.ca/assets/pdf/Libra_Hanfei_HPDC23.pdf">HPDC'23</a>], [<a href="https://intellisys.haow.ca/assets/pdf/hanfei-asplos24spring.pdf">ASPLOS'24</a>], [<a href="https://intellisys.haow.ca/assets/pdf/Hanfei_AAAI24_RL_serverless.pdf">AAAI'24</a>]</span> <br />                
+                <span>[<a href="https://intellisys.haow.ca/assets/pdf/hanfei_freyr_webconf22.pdf">WWW'22</a>], [<a href="https://intellisys.haow.ca/assets/pdf/Libra_Hanfei_HPDC23.pdf">HPDC'23</a>], [<a href="https://intellisys.haow.ca/assets/pdf/hanfei-asplos24spring.pdf">ASPLOS'24</a>], [<a href="https://intellisys.haow.ca/assets/pdf/Hanfei_AAAI24_RL_serverless.pdf">AAAI'24</a>], [SC'24]</span> <br />                
                 <span>B.S. Shanghai Jiao Tong University</span><br />   
                 <span>M.S.  University of Washington Tacoma</span>
             </div>
@@ -105,6 +105,20 @@ nav: true
         </div>
          </div>
     </div> 
+    <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+            <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                <img class="img-fluid rounded" src="/assets/img/shaghayegh.jpg" width="130px" alt="" title=""/>
+            </div>
+            <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                <h4>Shaghayegh Rabbanian</h4>
+                <span>Master, 2023</span><br />
+                <span>Reinforcement Learning-driven Multi-Depot Vehicle Routing [<a href="https://iise.confex.com/iise/2023/meetingapp.cgi/Paper/3575">IISE'23</a>]</span><br />
+                <span>Ph.D. from the MIE Department</span><br />
+                <!-- <span><i>Co-advised with Dr. Gerald M. Knapp</i></span><br /> -->
+            </div>
+            </div>
+        </div>
     </div>
 </div>
 
@@ -115,19 +129,7 @@ nav: true
 ---
 
 <div class="container">
-    <div class="row">
-        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
-            <div class="row">
-                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                    <img class="img-fluid rounded" src="/assets/img/nasser.jpeg" width="130px" alt="" title=""/>
-                </div>
-                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                    <h4>Nasser J Mohammed</h4>
-                    <span>Joined at 2021 Fall</span><br />
-                    <span>Automating Material Measurement and Evaluation using CV Approaches</span><br />
-                </div>
-            </div>
-        </div>        
+    <div class="row">              
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
@@ -253,14 +255,27 @@ nav: true
         <div class="col-lg-6 mt-1 mb-4 mt-md-1">
             <div class="row">
                 <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
+                    <img class="img-fluid rounded" src="/assets/img/nasser.jpeg" width="130px" alt="" title=""/>
+                </div>
+                <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
+                    <h4>Nasser J Mohammed</h4>
+                    <span>Joined at 2021 Fall</span><br />
+                    <span><a href="/projects/5_project/">Automating Material Measurement and Evaluation using CV Approaches</a></span><br />
+                    <span>Admitted by LSU CS Master program</span><br />
+                </div>
+            </div>
+        </div>  
+        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
+            <div class="row">
+                <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
                     <img class="img-fluid rounded" src="/assets/img/william-wei.jpg" width="130px" alt="" title=""/>
                 </div>
                 <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
                     <h4>William Wei</h4>
-                    <span>:tada: Admitted by Yale</span><br />
                     <span>:trophy: The 2nd place winner, LSU High School Summer Research Program, 2023</span><br />
                     <span>Baton Rouge Magnet High School</span><br />
                     <span><a href="/k12projects/3_project/">Project: Backdoor self-driving models</a></span>
+                    <span>:tada: Admitted by Yale</span><br />
                 </div>
             </div>
         </div>
@@ -273,6 +288,7 @@ nav: true
                     <h4>Jacob Carter</h4>
                     <span>Joined at 2023 Fall</span><br />
                     <span>Serverless computing systems for AI</span><br />
+                    <span>Now Ph.D. student @ University of Florida</span>
                 </div>
             </div>
         </div>
@@ -326,20 +342,6 @@ nav: true
                 <span>Research Intern, joined at 2023 Summer</span><br />
                 <span>[<a href="https://arxiv.org/pdf/2308.10279v3">ICCV'23</a>], [<a href="https://intellisys.haow.ca/assets/pdf/fedala-jianqing-aaai2023.pdf">AAAI'23</a>], [<a href="https://intellisys.haow.ca/assets/pdf/fedcp-jianqing.pdf">KDD'23</a>], [<a href="https://intellisys.haow.ca/assets/pdf/2806_eliminating_domain_bias_for_fe.pdf">NeurIPS'23</a>]</span><br />
                 <span>Now Ph.D. student @ SJTU</span><br />
-                <!-- <span><i>Co-advised with Dr. Gerald M. Knapp</i></span><br /> -->
-            </div>
-            </div>
-        </div>
-        <div class="col-lg-6 mt-1 mb-4 mt-md-1">
-            <div class="row">
-            <div class="col-sm-3 col-lg-4 col-4 mt-1 mt-md-1">
-                <img class="img-fluid rounded" src="/assets/img/shaghayegh.jpg" width="130px" alt="" title=""/>
-            </div>
-            <div class="col-sm-9 col-lg-8 col-8 mt-1 mt-md-1">
-                <h4>Shaghayegh Rabbanian</h4>
-                <span>Master, 2023</span><br />
-                <span>Reinforcement Learning-driven Multi-Depot Vehicle Routing [<a href="https://iise.confex.com/iise/2023/meetingapp.cgi/Paper/3575">IISE'23</a>]</span><br />
-                <span>Ph.D. from the MIE Department</span><br />
                 <!-- <span><i>Co-advised with Dr. Gerald M. Knapp</i></span><br /> -->
             </div>
             </div>

@@ -6,18 +6,42 @@ description:
 nav: true
 ---
 
----
-
 ### Courses
 ---
 
+<br />
+<div class="projects grid">
+
+  {% assign sorted_projects = site.courses | sort: "importance" %}
+  {% for project in sorted_projects %}
+  <div class="grid-item">
+    {% if project.redirect %}
+    <a href="{{ project.redirect }}" target="_blank">
+    {% else %}
+    <a href="{{ project.url | relative_url }}">
+    {% endif %}
+      <div class="card hoverable">
+        {% if project.img %}
+        <div style="padding: 10px 10px"> <img src="{{ project.img | relative_url }}" alt="project thumbnail"> </div>
+        {% endif %}
+        <div class="card-body">
+          <h5 class="card-title">{{ project.title }}</h5>
+          <!-- <p class="card-text">{{ project.description }}</p> -->
+        </div>
+      </div>
+    </a>
+  </div>
+{% endfor %}
+</div>
+
+<br />
 
 
 ### Hackathons, Tutorials, and Fun
 ---
 <br />
-<div class="projects grid">
 
+<div class="projects grid">
   {% assign sorted_projects = site.miscprojects | sort: "importance" %}
   {% for project in sorted_projects %}
   <div class="grid-item">
@@ -31,7 +55,7 @@ nav: true
         <div style="padding: 10px 10px"> <img src="{{ project.img | relative_url }}" alt="project thumbnail"> </div>
         {% endif %}
         <div class="card-body">
-          <h4 class="card-title">{{ project.title }}</h4>
+          <h5 class="card-title">{{ project.title }}</h5>
           <!-- <p class="card-text">{{ project.description }}</p> -->
           <div class="row ml-1 mr-1 p-0">
             {% if project.github %}
@@ -53,3 +77,6 @@ nav: true
     </a>
   </div>
 {% endfor %}
+
+</div>
+<br />
